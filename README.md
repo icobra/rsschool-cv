@@ -1,1 +1,1 @@
-https://icobra.github.io/rsschool-cv/cv
+https://icobra.github.io/rsschool-cv/
