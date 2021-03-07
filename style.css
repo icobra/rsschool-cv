@@ -4,6 +4,27 @@ body {
   margin-right: auto;
 }
 
+header,
+main,
+footer {
+  margin-bottom: -3%;
+  padding-bottom: -3%;
+  background-color: #7ad0f0;
+}
+
+h1 {
+  padding-bottom: 5%;
+  text-align: center 
+}
+
+.center{
+  text-align: center;  
+}
+
+.left{
+  padding-left: 10%;
+}
+
 #rs_logo {
   width: 10%;
   border: none;
