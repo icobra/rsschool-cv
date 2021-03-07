@@ -3,3 +3,12 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
+#rs_logo {
+  width: 10%;
+  border: none;
+}
+
+code {
+  font-family: 'Fira Mono', monospace;
+}
